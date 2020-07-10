@@ -15,4 +15,4 @@ bump change log to force a rebuild.
 
 - Gatsby.js and Contentful
 - Updated aws-amplify to point to this repository
-- bump
+- bump again to update hello world build
