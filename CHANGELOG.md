@@ -14,3 +14,4 @@ bump change log to force a rebuild.
 ### Added
 
 - Gatsby.js and Contentful
+- Updated aws-amplify to point to this repository
