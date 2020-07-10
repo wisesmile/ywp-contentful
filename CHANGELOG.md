@@ -7,12 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-bump change log to force a rebuild.
-
 ## [1.0.0] - 2020-07-09
 
 ### Added
 
 - Gatsby.js and Contentful
-- Updated aws-amplify to point to this repository
+- Updated aws-amplify to point to github.com/wisesmile/ywp-contentful
 - bump again to update hello world build
+- renamed blog post for setlist to be a date
