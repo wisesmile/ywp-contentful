@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated aws-amplify to point to github.com/wisesmile/ywp-contentful
 - bump again to update hello world build
 - renamed blog post for setlist to be a date
+- modified setlist to look like archives.org as well as an unordered list
